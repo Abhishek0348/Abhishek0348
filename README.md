@@ -8,7 +8,7 @@
 
 - 🚀 Eager Learner, Excited Creator
 
-- 🌱 I’m currently learning **Unity and Autodesk MAYA**
+- 🌱 I’m currently learning **Unity and AR Development**
 
 - 📫 How to reach me **abhisheksharmaprof1@gmail.com**
 
