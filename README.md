@@ -8,7 +8,7 @@
 
 - 🚀 Eager Learner, Excited Creator
 
-- 🌱 I’m currently learning **Unity and AR Development**
+- 🌱 I’m currently learning **Unity Game Development**
 
 - 📫 How to reach me **abhisheksharmaprof1@gmail.com**
 
